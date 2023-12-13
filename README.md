@@ -1,5 +1,5 @@
 # PDDL 2.1: Domain Model and Problem Description Files
-The domain and problem files used in the article entitled “A Digital Workflow based on Artificial Intelligence Planning for Printability and Prefabrication Checking in Robotic Construction 3D Printing”.
+The domain and problem files used in the article entitled “A Digital Workflow Based on Artificial Intelligence Planning for Printability and Prefabrication Checking in Robotic Construction 3D Printing”.
 
 Authors:
 
